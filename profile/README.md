@@ -22,6 +22,7 @@ Meet our amazing team and learn more about Trashub. Together, let's create a cle
 | A200D4KX3715 | Mutiara Permata Putri | Mobile Development | Diponegoro University | <a href="https://www.linkedin.com/in/mutiara-permata-08bb962b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> |
 
 ## Languages and Tools:
+<div align="center">
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -54,8 +55,17 @@ Meet our amazing team and learn more about Trashub. Together, let's create a cle
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
+</div>
 
-### 🔥 Supported By
+## Development Repositories
+| Path | GitHub |
+|----------|----------|
+| Cloud Computing  | [GitHub](https://github.com/TrashubCapstone/CC-backend)  |
+| Machine Learning  | [GitHub](https://github.com/TrashubCapstone/ML)  |
+| Mobile Development  | [GitHub](https://github.com/TrashubCapstone/MD)  |
+
+
+## Supported By 
 <div align="center">
   <img src="https://github.com/Compassion-ly/.github/assets/40346034/0576faf2-6c25-4989-b8f4-dc981f6067fd" height="80" alt="Kampus Merdeka" style="margin-right:20px;"/>
   <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
