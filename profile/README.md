@@ -14,12 +14,12 @@ Meet our amazing team and learn more about Trashub. Together, let's create a cle
 | Bangkit ID | Name | Learning Path | University | Contact |
 | ----- | ----- | ----- | ----- | ----- |
 | M007D4KY1398 | Nizar Rafi Pratama | Machine Learning | Dian Nuswantoro University | <a href="https://www.linkedin.com/in/nizarrafipratama/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
-| M007D4KY1835 | Mohamad Reza Putra Ramadhan | Machine Learning | Dian Nuswantoro University | <a href="https://www.linkedin.com/in/veliciavv/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a> |
-| M200D4KX1717 | Salsabila Tuada  | Machine Learning | Diponegoro University | <a href="https://www.linkedin.com/in/salsabila-tuada-151802228/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a> |
-| C200D4KX0325 |  Agustina Mita Amalia | Cloud Computing | Diponegoro University | <a href="https://www.linkedin.com/in/agustina-mita-amalia-97a5232a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a> |
-| C007D4KY0882 | William Trijanto Dwiputra T | Cloud Computing | Dian Nuswantoro University | <a href="https://www.linkedin.com/in/williamtrijantodt/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a> |
-| A245D4KY4428 | Rafael Deandra Pradipta | Mobile Development | Satya Wacana Christian University | <a href="https://www.linkedin.com/in/rafael-deandra/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a> |
-| A200D4KX3715 | Mutiara Permata Putri | Mobile Development | Diponegoro University | <a href="https://www.linkedin.com/in/mutiara-permata-08bb962b4/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" /></a> |
+| M007D4KY1835 | Mohamad Reza Putra Ramadhan | Machine Learning | Dian Nuswantoro University | <a href="https://www.linkedin.com/in/veliciavv/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
+| M200D4KX1717 | Salsabila Tuada  | Machine Learning | Diponegoro University | <a href="https://www.linkedin.com/in/salsabila-tuada-151802228/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
+| C200D4KX0325 |  Agustina Mita Amalia | Cloud Computing | Diponegoro University | <a href="https://www.linkedin.com/in/agustina-mita-amalia-97a5232a3/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
+| C007D4KY0882 | William Trijanto Dwiputra T | Cloud Computing | Dian Nuswantoro University | <a href="https://www.linkedin.com/in/williamtrijantodt/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
+| A245D4KY4428 | Rafael Deandra Pradipta | Mobile Development | Satya Wacana Christian University | <a href="https://www.linkedin.com/in/rafael-deandra/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
+| A200D4KX3715 | Mutiara Permata Putri | Mobile Development | Diponegoro University | <a href="https://www.linkedin.com/in/mutiara-permata-08bb962b4/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="40" height="40"/></a> |
 
 ## Languages and Tools:
 <div align="center">
