@@ -67,6 +67,6 @@ Meet our amazing team and learn more about Trashub. Together, let's create a cle
 
 ## Supported By 
 <div align="center">
-  <img src="https://github.com/Compassion-ly/.github/assets/40346034/0576faf2-6c25-4989-b8f4-dc981f6067fd" height="80" alt="Kampus Merdeka" style="margin-right:20px;"/>
-  <img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/>
+  <a href="https://kampusmerdeka.kemdikbud.go.id/" target="_blank" rel="noreferrer"><img src="https://github.com/Compassion-ly/.github/assets/40346034/0576faf2-6c25-4989-b8f4-dc981f6067fd" height="80" alt="Kampus Merdeka" style="margin-right:20px;"/></a>
+  <a href="https://grow.google/intl/id_id/bangkit/" target="_blank" rel="noreferrer"><img src="https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id/mitra/mitra_af66db2e-0997-4f52-9cc0-a14412eeeab9.png" height="80" alt="bangkit academy" style="margin-right:left0px;"/></a>
 </div>
